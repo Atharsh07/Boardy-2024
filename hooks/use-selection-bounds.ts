@@ -1,5 +1,5 @@
 import { shallow } from "@liveblocks/react";
-
+//hooks ratios 
 import { Layer, XYWH } from "@/types/canvas";
 import { useStorage, useSelf } from "@/liveblocks.config";
 
