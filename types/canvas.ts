@@ -8,7 +8,7 @@ export type Color = {
     x: number;
     y: number;
   };
-  
+  //export layers
   export enum LayerType {
     Rectangle,
     Ellipse,
