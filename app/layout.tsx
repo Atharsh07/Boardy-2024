@@ -8,7 +8,7 @@ import { Suspense } from "react";
 import { Loading } from "@/components/auth/loading";
 
 
-
+//process flow 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
