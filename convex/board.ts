@@ -1,7 +1,7 @@
 import { v } from "convex/values";
 
 import { mutation, query } from "./_generated/server";
-
+//common imgs
 const images = [
   "/placeholders/1.svg",
   "/placeholders/2.svg",
