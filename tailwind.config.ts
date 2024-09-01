@@ -1,5 +1,5 @@
 import type { Config } from "tailwindcss"
-
+//iji
 const config = {
   darkMode: ["class"],
   content: [
